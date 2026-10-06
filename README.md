@@ -2,6 +2,14 @@
 
 PHP SDK para as APIs do Itaú Unibanco — Cobrança (Boletos), PIX, Pagamentos e Extratos com suporte multi-conta e credenciais isoladas por módulo.
 
+<p align="center">
+    <a href="https://packagist.org/packages/caiquebispo/itau"><img src="https://poser.pugx.org/caiquebispo/itau/v/stable" alt="Latest Stable Version"></a>
+    <a href="https://packagist.org/packages/caiquebispo/itau"><img src="https://poser.pugx.org/caiquebispo/itau/downloads" alt="Total Downloads"></a>
+    <a href="https://packagist.org/packages/caiquebispo/itau"><img src="https://poser.pugx.org/caiquebispo/itau/v/unstable" alt="Latest Unstable Version"></a>
+    <a href="https://packagist.org/packages/caiquebispo/itau"><img src="https://poser.pugx.org/caiquebispo/itau/license" alt="License"></a>
+    <a href="https://packagist.org/packages/caiquebispo/itau"><img src="https://poser.pugx.org/caiquebispo/itau/require/php" alt="PHP Version Require"></a>
+</p>
+
 ## Requisitos
 
 - PHP 8.2+
